@@ -1,2 +1,2 @@
 # ColoredClock
-Цветные 7-сегментные часы на Arduino
+Цветные 7-сегментные часы на Arduino с поддержкой Bluetooth
